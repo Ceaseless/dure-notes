@@ -1,7 +1,7 @@
 
 # Data
 ## Hitzones
-![musou_dure_cut_hzv.png]
+![Assets/musou_dure_cut_hzv.png]
 
 | *Part*       | *Cutting*                             | *Impact* | *Shot* | *Fire* | *Water* | *Thndr* | *Dragon* | *Ice* |
 | ------------ | ------------------------------------- | -------- | ------ | ------ | ------- | ------- | -------- | ----- |
