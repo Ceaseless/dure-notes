@@ -1,7 +1,7 @@
 
 # Data
 ## Hitzones
-![[musou_dure_cut_hzv.png]]
+![musou_dure_cut_hzv.png]
 
 | *Part*       | *Cutting*                             | *Impact* | *Shot* | *Fire* | *Water* | *Thndr* | *Dragon* | *Ice* |
 | ------------ | ------------------------------------- | -------- | ------ | ------ | ------- | ------- | -------- | ----- |
@@ -80,19 +80,19 @@
 - Ice Age: 1/4/5 DPS
 - Weapon Art Lg (+40 raw) + Perfect Defense Large
 ### Evade Boost
-![[Set_Dure_Evade_Boost.png]]
+![Set_Dure_Evade_Boost.png]
 - Evasion Boost to deal with Dure's agility (4-beam, 2xhop > beam, tackle > beam > tackle)
 - Lone Wolf instead of Lavish Attack (Can't have diva so LW is just better)
 	- ?Maybe go Lavish + Attack cat?
 
 ### Lance sets
-![[Set_Dure_Lance_ZP.png]]
-![[Set_Dure_Lance_ZY.png]]
+![Set_Dure_Lance_ZP.png]
+![Set_Dure_Lance_ZY.png]
 - +100 raw over Evasion Boost set while incite isn't up, +60 otherwise
 - 12% timeout
 
 ### No Reflect
-![[Set_Dure_No_Reflect.png]]
+![Set_Dure_No_Reflect.png]
 - Trades Reflect for Ceaseless Up and Stylish Assault
 - Highest stab damage output
 - From PANINI
@@ -101,7 +101,7 @@
 - Losing reflect damage seems to be significant
 
 ### No Obscurity Up
-![[Set_Dure_No_Obscurity_Up.png]]
+![Set_Dure_No_Obscurity_Up.png]
 - Trades SSU+1 and Obscurity Up for Ceaseless Up and Crit Conversion Up
 - Based on Kotya's clear (PROBABLY used a Z sigil)
 - Loses 50 raw vs lavish
@@ -134,7 +134,7 @@
 		- Upswing is your best friends for quick damage (especially *Tail* hits)
 - Can restore HB after most attack sequences (safest after/during any beam or after tackle sequence) 
 - You'll be poisoned a LOT during the fight
-	- Any attack with electric rocks or beams inflicts poison![[deadly_poison.png|20]]
+	- Any attack with electric rocks or beams inflicts poison![deadly_poison.png|20]
 	- Poisons through guards/parries
 	- Poison takes a bit before it starts ticking and re-poisoning doesn't refresh duration
 	- With full road skills poison deals <40 damage?
@@ -153,18 +153,18 @@
 	- Sometimes Dure spawns early, so you can't evade the roar → No Thunderclad/Furious build-up
 		- Worst opening: Early Spawn → 4-Beam
 	- ?Maybe hop nuke for earlier Thunderclad? 
-- **Threshold Nuke![[deadly_poison.png|20]]**
+- **Threshold Nuke![deadly_poison.png|20]**
 	- Ideally PD roar > 4 Guard-pokes > PD Explosion
 	- But just not getting hit by roar is good enough 
 	- Wing discharge can hit grounded → Stay towards middle
-- **Paw-slam![[deadly_poison.png|20]] > Spin![[deadly_poison.png|20]]**
+- **Paw-slam![deadly_poison.png|20] > Spin![deadly_poison.png|20]**
 	- PD > PD
 		- If close: Face away from Dure for slam to not get tripped
 		- Pretty big gap between PDs
 	- Backhop > delayed back-dash
 	- Stupidly fast, but not really dangerous since chip is negligible (unless you have ticking poison)
 	- Hind legs will be further away after the animation completes!
-- **4-Beam![[deadly_poison.png|20]]**
+- **4-Beam![deadly_poison.png|20]**
 	- Get behind with run > blast-dash 
 		- Left side is safer, right side gives you a tail-hit if you time a Blast-Dash > Cleave with the second Beam 
 	- If too far/no EE time blast-dash with side beams otherwise you'll get clipped
@@ -174,7 +174,7 @@
 	- Usually enough time for any stab combo + slam
 	- Has a hitbox when Dure lands from backhop!
 	- ?There might be a reflect strat where you stand at the edge of where the sweeping beam starts?
-- **Tail-tremor > Spin![[deadly_poison.png|20]]**
+- **Tail-tremor > Spin![deadly_poison.png|20]**
 	- PD tremor (late, don't change facing while Dure spins)
 	- If far: PD spin xx sidestep rocks
 	- If poison is ticking, failing any PD usually means death
@@ -182,7 +182,7 @@
 	- If you are close to a foreleg you can get a second reflect from the spin
 		- Direction is wonky though, so you might get tripped
 	- [If you are next to the initial tail hit you can get a ton of reflects](https://www.youtube.com/watch?v=0bBTIDK5_uE) 
-- **Tackle > Beam![[deadly_poison.png|20]] > Tackle**
+- **Tackle > Beam![deadly_poison.png|20] > Tackle**
 	- PD Tackle > Blast-dash > delayed hop (~End of blast-dash recovery)
 		- Hop/Sidestep > Blast-dash > delayed hop if you are in an animation when tackle starts
 	- Second tackle is along the same path as the first one 
@@ -190,11 +190,11 @@
 	- Large source of DPS loss if you misjudge the direction and end up far
 	- Initial tackle can trigger multiple reflects if very close (start-up + movement) 
 	- Real ass if Dure does it close to a wall cause the hop timing is earlier and you might end up blast-dashing with/into the beam
-- **Hop > Hop > Beam![[deadly_poison.png|20]]**
+- **Hop > Hop > Beam![deadly_poison.png|20]**
 	- PD hops if you can (they usually miss) > Blast-dash towards Dure
-- **Backstep > Jumping Tail-swipe![[deadly_poison.png|20]]** 
+- **Backstep > Jumping Tail-swipe![deadly_poison.png|20]** 
 	- PD or hop depending on TC status
-- **Slam![[deadly_poison.png|20]] > Straight Beam![[deadly_poison.png|20]] / Sweep Beam![[deadly_poison.png|20]]**
+- **Slam![deadly_poison.png|20] > Straight Beam![deadly_poison.png|20] / Sweep Beam![deadly_poison.png|20]**
 	- Run > Blast-dash behind Dure (side doesn't matter)
 		- When behind stay in the middle to not get clipped by wing discharge
 	- Run > Blast-dash parallel to Dure (stay at side)
@@ -204,7 +204,7 @@
 	- PD'ing the tremor/blast is too risky
 	- ?Enough time for full combo?
 	- Wing discharge can hit grounded → Stay in the middle OR blast-dash > cleave late to evade
-- **Slam![[deadly_poison.png|20]] > Charge > Roar+Explosion**
+- **Slam![deadly_poison.png|20] > Charge > Roar+Explosion**
 	- PD > guard-poke > PD
 		- Second part doesn't need PD if outside of roar range
 		- Very slight delay between guard-poke and PD
@@ -214,37 +214,37 @@
 		- Fallback if poison would kill you
 		- Hop at the very end of the cleave animation
 	- Really sucks if you are in front of Dure because of the roar hit
-- **Tail-slam![[deadly_poison.png|20]]**
+- **Tail-slam![deadly_poison.png|20]**
 	- If close: PD 
 		- If really close: Upswing > Guard-poke > Upswing
 		- Else: 
 			- Cancel into run > Blast-dash > Cleave
 	- If far: Blast-dash > Cleave (> Run > Poke)
-- **Back-flip rocks![[deadly_poison.png|20]] > Dive** 
+- **Back-flip rocks![deadly_poison.png|20] > Dive** 
 	- Backhop rocks > PD dive
 	- Block/PD rocks > PD dive
 		- Reflect on rocks usually whiffs
 	- Dive nets multiple reflects 
 	- If Dure gets staggered in the dive it'll snap to flying-idle > land animation 
 		- This can break the AI and get Dure stuck (KO unsticks, ?Stagger doesn't?)
-- **Charge > Ground-roar > Slam![[deadly_poison.png|20]]**
+- **Charge > Ground-roar > Slam![deadly_poison.png|20]**
 	- Just hit Dure during this
 	- n Guard-poke > PD > PD
 	- If you are very close to Dure for the slam missing the PD won't cause a knockback (still chips though)
-- **Charge > Air Nova![[deadly_poison.png|20]]**
+- **Charge > Air Nova![deadly_poison.png|20]**
 	- Nova is unblockable
 	- Poke during charge
 		- Poke > Side-step
 		- Guard-poke > Blast-dash towards tail/side
 	- Try to hit tail during recovery if behind
 		- Upswing > Guard-poke only if you won't get clipped by Turn-around Swipe
-- **Charge > Right paw-slam![[deadly_poison.png|20]] > Left paw-slam![[deadly_poison.png|20]]**
+- **Charge > Right paw-slam![deadly_poison.png|20] > Left paw-slam![deadly_poison.png|20]**
 	- 4 guard-pokes > PD > guard-poke > PD
 		- Slams are multi-hit → Single PD *can* cover 2+ hits, BUT it's not guaranteed
 	- Guard-poke in between feels risky, but basically auto-times the second PD
 	- ~~Aim towards side so reflect hits forelegs rather than body (head's too high)~~
 		- Doesn't seem matter since it'll usually hit the back if you are point-blank
-- **Cross explosions![[deadly_poison.png|20]] > Slam![[deadly_poison.png|20]]**
+- **Cross explosions![deadly_poison.png|20] > Slam![deadly_poison.png|20]**
 	- Safe at back legs or directly under Dure
 	- If in safe spot: 3 guard-poke (Ignore cross) > PD Slam 
 	- Otherwise guard cross (usually hits behind) > PD Slam
