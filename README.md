@@ -80,19 +80,19 @@
 - Ice Age: 1/4/5 DPS
 - Weapon Art Lg (+40 raw) + Perfect Defense Large
 ### Evade Boost
-!(Set_Dure_Evade_Boost.png]
+![Evasion Boost](Assets/Gunlance/Set_Dure_Evade_Boost.png)
 - Evasion Boost to deal with Dure's agility (4-beam, 2xhop > beam, tackle > beam > tackle)
 - Lone Wolf instead of Lavish Attack (Can't have diva so LW is just better)
 	- ?Maybe go Lavish + Attack cat?
 
 ### Lance sets
-!(Set_Dure_Lance_ZP.png]
-!(Set_Dure_Lance_ZY.png]
+![Lance ZP](Assets/Gunlance/Set_Dure_Lance_ZP.png)
+![Lance ZY](Assets/Gunlance/Set_Dure_Lance_ZY.png)
 - +100 raw over Evasion Boost set while incite isn't up, +60 otherwise
 - 12% timeout
 
 ### No Reflect
-!(Set_Dure_No_Reflect.png]
+![No Reflect](Assets/Gunlance/Set_Dure_No_Reflect.png)
 - Trades Reflect for Ceaseless Up and Stylish Assault
 - Highest stab damage output
 - From PANINI
@@ -101,7 +101,7 @@
 - Losing reflect damage seems to be significant
 
 ### No Obscurity Up
-!(Set_Dure_No_Obscurity_Up.png]
+![No Obs Up](Assets/Gunlance/Set_Dure_No_Obscurity_Up.png)
 - Trades SSU+1 and Obscurity Up for Ceaseless Up and Crit Conversion Up
 - Based on Kotya's clear (PROBABLY used a Z sigil)
 - Loses 50 raw vs lavish
@@ -153,7 +153,7 @@
 	- Sometimes Dure spawns early, so you can't evade the roar → No Thunderclad/Furious build-up
 		- Worst opening: Early Spawn → 4-Beam
 	- ?Maybe hop nuke for earlier Thunderclad? 
-- **Threshold Nuke![Poison](Assets/deadly_poison.png|20)**
+- **Threshold Nuke<img src="Assets/deadly_poison.png" width=20% height=20%>**
 	- Ideally PD roar > 4 Guard-pokes > PD Explosion
 	- But just not getting hit by roar is good enough 
 	- Wing discharge can hit grounded → Stay towards middle
