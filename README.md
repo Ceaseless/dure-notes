@@ -118,8 +118,8 @@
 	- Getting PBT on *Back* has the most consistent damage increase since you can hit it from any angle 
 	- ~~PBT on back legs most consistent if Dure jumps a lot~~
 	- ~~Hitting wing consistently for PBT not possible?~~
-		- ~~Turns out Dure's hurtboxes are wonky and GL's hitbox is pretty far
-		- ~~Wing hitboxes are also MASSIVE and move a lot during animations e.g. during Turn-around Swipe Guard-Pokes reach them
+		- ~~Turns out Dure's hurtboxes are wonky and GL's hitbox is pretty far~~
+		- ~~Wing hitboxes are also MASSIVE and move a lot during animations e.g. during Turn-around Swipe Guard-Pokes reach them~~
 		- ~~Can hit wings somewhat consistently by Guard-poking while being close to Dure~~
 			- ~~Front: Through chest into back/wings~~
 			- ~~Back/Side: Towards the waist~~
