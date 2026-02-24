@@ -153,7 +153,7 @@
 	- Sometimes Dure spawns early, so you can't evade the roar → No Thunderclad/Furious build-up
 		- Worst opening: Early Spawn → 4-Beam
 	- ?Maybe hop nuke for earlier Thunderclad? 
-- **Threshold Nuke<img src="Assets/deadly_poison.png" width=20% height=20%>**
+- **Threshold Nuke<img src="Assets/deadly_poison.png" width=20 height=20>**
 	- Ideally PD roar > 4 Guard-pokes > PD Explosion
 	- But just not getting hit by roar is good enough 
 	- Wing discharge can hit grounded → Stay towards middle
