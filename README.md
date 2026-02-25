@@ -12,9 +12,21 @@
 | **Foreleg**  | 15                                    | 20       | 10     | 10     | 5       | 0       | 10       | 5     |
 | **Hind Leg** | 15                                    | 15       | 10     | 10     | 5       | 0       | 10       | 5     |
 | **Wing**     | <mark style="color:Orange;">25</mark> | 20       | 15     | 10     | 5       | 0       | 15       | 20    |
+
+## Stats
 - Base HP: 6000x5 = 30000
 - Def Mod: 0.04
 - ~~Rage Def Mod: 0.6~~
+### Deadly Poison <img src="Assets/deadly_poison.png" width=20 height=20>
+- Reduces Defense to 1
+- Takes **5** seconds to start dealing damage
+- Deals **1** damage every **8** frames
+- Duration/Damage
+	- **No Res**: 60 seconds => 225 damage
+	- **Level 1 Res**: 40 seconds => 150 damage
+	- **Level 2 Res**: 20 seconds => 75 damage
+	- **Level 3 Res**: 10 seconds => 37 damage
+ 
 ## Reference Runs
 #### [Hygogg12](https://www.youtube.com/watch?v=68WK1F69fMo)
 - 15 + 110 attack sigils
