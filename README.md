@@ -91,7 +91,7 @@
 - Sigils: 15 GL Up + 91 Attack = 106 (MAX: 15 + 120 = 135) 
 - Ice Age: 1/4/5 DPS
 - Weapon Art Lg (+40 raw) + Perfect Defense Large
-### Evade Boost
+### Evasion Boost
 ![Evasion Boost](Assets/Gunlance/Set_Dure_Evade_Boost.png)
 - Evasion Boost to deal with Dure's agility (4-beam, 2xhop > beam, tackle > beam > tackle)
 - Lone Wolf instead of Lavish Attack (Can't have diva so LW is just better)
@@ -194,7 +194,7 @@
 	- If you are close to a foreleg you can get a second reflect from the spin
 		- Direction is wonky though, so you might get tripped
 	- [If you are next to the initial tail hit you can get a ton of reflects](https://www.youtube.com/watch?v=0bBTIDK5_uE) 
-- **Tackle > Beam<img src="Assets/kaidoku.png" width=20 height=20> > Tackle**
+- **Tackle > Sweep Beam<img src="Assets/kaidoku.png" width=20 height=20> > Tackle**
 	- PD Tackle > Blast-dash > delayed hop (~End of blast-dash recovery)
 		- Hop/Sidestep > Blast-dash > delayed hop if you are in an animation when tackle starts
 	- Second tackle is along the same path as the first one 
@@ -202,7 +202,7 @@
 	- Large source of DPS loss if you misjudge the direction and end up far
 	- Initial tackle can trigger multiple reflects if very close (start-up + movement) 
 	- Real ass if Dure does it close to a wall cause the hop timing is earlier and you might end up blast-dashing with/into the beam
-- **Hop > Hop > Beam<img src="Assets/kaidoku.png" width=20 height=20>**
+- **Hop > Hop > Sweep Beam<img src="Assets/kaidoku.png" width=20 height=20>**
 	- PD hops if you can (they usually miss) > Blast-dash towards Dure
 - **Backstep > Jumping Tail-swipe<img src="Assets/kaidoku.png" width=20 height=20>** 
 	- PD or hop depending on TC status
