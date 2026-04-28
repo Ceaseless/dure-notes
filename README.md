@@ -119,14 +119,17 @@
 - Loses 50 raw vs lavish
 - ?How much sharpness do you lose in-between heatblades?
 	- At most 4 HB → definitely drop to purple
-	- Negligible if HB can be recovered on CD 
+ 	- Probably around a minute of purple over the fight 	
+	- Negligible if HB can be recovered on CD?
 # Notes
 - Pure reflect playstyle doesn't work (unless you can PD every single beam hit → Turbo/TAS?)
 - Uptime is king!
 - *Tail* (30) > *Head* = *Wing* (25) > *Back* = *Legs* (15* > *Belly/Body* (10)
 	- The *Belly* (*Body* on overlay) hitbox seems to be only a thin shell → As long as you are close it'll hit the *Back* instead
+ 	- *Back* and *Wings* are considered one part so hitting the *Back* will cause a wing break and also applied PBT on both HZVs
+  	- Frontlegs are 1 part, backlegs are separate parts  
 	- Guard-pokes will usually hit *Back* hitbox (HB basically always)
-		- Hitting back causes part damage on wings?!
+		- ~~Hitting back causes part damage on wings?!~~
 	- Getting PBT on *Back* has the most consistent damage increase since you can hit it from any angle 
 	- ~~PBT on back legs most consistent if Dure jumps a lot~~
 	- ~~Hitting wing consistently for PBT not possible?~~
@@ -161,10 +164,12 @@
 ## Attacks
 - **Opener**
 	- Courage: PD roar > 4 guard-pokes > PD Nuke (Full obs, Full guard for Furious)
-	- Weapon Art Lg: Blast-dash roar > Cleave > Poke > Upswing > Guard-poke > PD Nuke > 2 Guard-pokes > Upswing > Slam > Guard/Guard-poke 
+	- ~~Weapon Art Lg: Blast-dash roar > Cleave > Poke > Upswing > Guard-poke > PD Nuke > 2 Guard-pokes > Upswing > Slam > Guard/Guard-poke~~
+ 	- Blast-dash roar > Run > 2x Poke > Upwsing > Slam > PD Nuke > 2x Guard-poke > Upwsing > Slam > Guard
 	- Sometimes Dure spawns early, so you can't evade the roar → No Thunderclad/Furious build-up
+ 		- Usually you can get close enough 
 		- Worst opening: Early Spawn → 4-Beam
-	- ?Maybe hop nuke for earlier Thunderclad? 
+	- ~~Maybe hop nuke for earlier Thunderclad~~ 
 - **Threshold Nuke<img src="Assets/kaidoku.png" width=20 height=20>**
 	- Ideally PD roar > 4 Guard-pokes > PD Explosion
 	- But just not getting hit by roar is good enough 
@@ -231,6 +236,7 @@
 		- If really close: Upswing > Guard-poke > Upswing
 		- Else: 
 			- Cancel into run > Blast-dash > Cleave
+   			- Or just get close and Upswing > Guard-poke 	
 	- If far: Blast-dash > Cleave (> Run > Poke)
 - **Back-flip rocks<img src="Assets/kaidoku.png" width=20 height=20> > Dive** 
 	- Backhop rocks > PD dive
@@ -242,6 +248,7 @@
 - **Charge > Ground-roar > Slam<img src="Assets/kaidoku.png" width=20 height=20>**
 	- Just hit Dure during this
 	- n Guard-poke > PD > PD
+ 	- Hits quite delayed 
 	- If you are very close to Dure for the slam missing the PD won't cause a knockback (still chips though)
 - **Charge > Air Nova<img src="Assets/kaidoku.png" width=20 height=20>**
 	- Nova is unblockable
@@ -251,7 +258,7 @@
 	- Try to hit tail during recovery if behind
 		- Upswing > Guard-poke only if you won't get clipped by Turn-around Swipe
 - **Charge > Right paw-slam<img src="Assets/kaidoku.png" width=20 height=20> > Left paw-slam<img src="Assets/kaidoku.png" width=20 height=20>**
-	- 4 guard-pokes > PD > guard-poke > PD
+	- 4 Guard-pokes > PD > Guard-poke > PD
 		- Slams are multi-hit → Single PD *can* cover 2+ hits, BUT it's not guaranteed
 	- Guard-poke in between feels risky, but basically auto-times the second PD
 	- ~~Aim towards side so reflect hits forelegs rather than body (head's too high)~~
